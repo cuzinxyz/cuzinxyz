@@ -1,7 +1,7 @@
 <div align="center">
 
   ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuzinxyz&layout=compact)](https://github.com/cuzinxyz)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuzinxyz&theme=tokyonight)
   
 </div>  
 
