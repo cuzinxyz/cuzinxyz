@@ -9,7 +9,7 @@
   
   **📫 Reach me at:**<br>
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cuzin_pro)](https://twitter.com/opakholis)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cuzin_pro)](https://twitter.com/cuzinpro)
   [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/cuzinx)
 
 </div>
