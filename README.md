@@ -17,4 +17,4 @@
 ⭐️ From [cuzinxyz](https://github.com/cuzinxyz)
 
 ---
-![](https://komarev.com/ghpvc/?username=cuzinxyz&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=cuzinxyz&label=Visitors+Count&color=red)
