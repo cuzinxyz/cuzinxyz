@@ -20,9 +20,9 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
-- :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
-- :briefcase: I am currently looking for a job as Frontend Developer.
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | Node.js (Basic) | NPM / Yarn | MySQL | SQL Server | PHP (Laravel Framework).</strong>
+- :mortar_board: Studying: <strong>VueJS | Liveware (Laravel)</strong>.
+- :briefcase: I am currently looking for a job as Backend Developer.
 
 <br>
 
