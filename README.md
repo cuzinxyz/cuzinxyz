@@ -10,11 +10,11 @@
   <a href="https://twitter.com/cuzin_pro">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcuzin_pro&style=flat-square&logo=twitter&logoColor=white&label=cuzin_pro&color=whitte" />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
   <a href="https://github.com/cuzinxyz/?tab=follow">
     <img src="https://img.shields.io/github/followers/cuzinxyz?label=Follow&style=social" />
+  </a>
+  <a href="https://discord.gg/jU8a7x5x">
+    <img alt="Discord" src="https://img.shields.io/discord/853541264531390484?style=flat-square&logo=discord&logoColor=white&label=_donhat&color=white&link=https%3A%2F%2Fdiscord.gg%2FjU8a7x5x">
   </a>
 </p>
 
