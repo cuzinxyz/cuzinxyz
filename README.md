@@ -5,10 +5,10 @@
 
 <p align="left">
   <a href="mailto:huunhat.work@gmail.com">
-    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huunhat.work@gmail.com" />
+    <img src="https://img.shields.io/badge/-huunhat.work@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huunhat.work@gmail.com" />
   </a>
-  <a href="https://facebook.com/cuzinx">
-    <img src="https://img.shields.io/badge/cuzinx?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/cuzinx" />
+  <a href="https://twitter.com/cuzin_pro">
+    ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcuzin_pro&style=flat-square&logo=twitter&logoColor=white&label=cuzin_pro&color=whitte)
   </a>
   <a>
     <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
