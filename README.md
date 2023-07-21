@@ -1,20 +1,36 @@
-<div align="center">
 
-  ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuzinxyz&theme=tokyonight)
-  
-</div>  
+# ABNER ĐỖ
 
-<div align="center">
-  
-  **📫 Reach me at:**<br>
+<img align="right" width="300px" src="./bio-image.svg" />
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cuzin_pro)](https://twitter.com/cuzin_pro)
-  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/cuzinx)
+<p align="left">
+  <a href="mailto:huunhat.work@gmail.com">
+    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huunhat.work@gmail.com" />
+  </a>
+  <a href="https://facebook.com/cuzinx">
+    <img src="https://img.shields.io/badge/cuzinx?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/cuzinx" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/cuzinxyz/?tab=follow">
+    <img src="https://img.shields.io/github/followers/cuzinxyz?label=Follow&style=social" />
+  </a>
+</p>
 
-</div>
+<br>
 
-⭐️ From [cuzinxyz](https://github.com/cuzinxyz)
+- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
+- :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
+- :briefcase: I am currently looking for a job as Frontend Developer.
+
+<br>
+
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=cuzinxyz&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=cuzinxyz&label=Visitors+Count&color=red)
