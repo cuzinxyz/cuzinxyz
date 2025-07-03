@@ -2,6 +2,7 @@
 # ABNER ĐỖ
 
 <img align="right" width="300px" src="./bio-image.svg" />
+![](https://komarev.com/ghpvc/?username=cuzinxyz)
 
 <p align="left">
   <a href="mailto:huunhat.work@gmail.com">
