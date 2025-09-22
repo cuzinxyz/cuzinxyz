@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74231&center=true&vCenter=true&width=440&height=45&lines=Outsource+.Net+Developer;4%2B+years+of+coding+experience;Always+learning+new+things" alt="Sublime's custom image"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=13F700&width=600&height=80&lines=Outsource+PHP+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Sublime's custom image"/>
 </p>
 
 # ABNER ĐỖ
