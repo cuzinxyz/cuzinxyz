@@ -29,13 +29,5 @@
 - :mortar_board: Studying: <strong>VueJS | Liveware (Laravel)</strong>.
 - :briefcase: I am currently looking for a job as Backend Developer.
 
-<br>
-
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=cuzinxyz&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
-
 ---
 ![](https://komarev.com/ghpvc/?username=cuzinxyz&label=Visitors+Count&color=red)
