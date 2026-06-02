@@ -25,9 +25,9 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | Node.js (Basic) | NPM / Yarn | MySQL | SQL Server | PHP (Laravel Framework).</strong>
-- :mortar_board: Studying: <strong>VueJS | Liveware (Laravel)</strong>.
-- :briefcase: I am currently looking for a job as Backend Developer.
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | NestJS (NodeJS) | MongoDB | NPM / Yarn | MySQL | SQL Server | PHP (Laravel Framework) | Flarum.</strong>
+- :mortar_board: Studying: <strong>Golang</strong>.
+- :briefcase: I am currently looking for a job as Fullstack Developer.
 
 ---
 ![](https://komarev.com/ghpvc/?username=cuzinxyz&label=Visitors+Count&color=red)
